@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**mnsvihere/mnsvihere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ #✨ About Myself ✨
 
 Here are some ideas to get you started:
 
