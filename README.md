@@ -9,4 +9,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ... WebDev
 - 👯 I’m looking to collaborate on ... Some Learning projects.
 - 🤔 I’m looking for help with Full stack .
-- 📫 How to reach me: ig @blunt.saber 
+- 📫 How to reach me: ig  <a href="https://www.instagram.com/blunt.saber/?hl=en">blunt.saber</a> 
